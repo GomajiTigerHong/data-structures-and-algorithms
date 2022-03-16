@@ -1,5 +1,5 @@
 //space complexity -- O(1)
-//time complexity  -- O(n)
+//time  complexity -- O(n)
 
 #include <stdio.h>
 

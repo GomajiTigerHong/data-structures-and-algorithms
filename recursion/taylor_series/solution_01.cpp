@@ -1,5 +1,5 @@
-//spcae complexity O(n)
-//time complexity O(2^n)
+//spcae complexity -- O(n)
+//time  complexity -- O(2^n)
 
 //e^x = 1 + x/1! + x^2/2! + x^3/3! + ... + until n terms
 
