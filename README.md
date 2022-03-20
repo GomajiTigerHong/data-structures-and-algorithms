@@ -10,4 +10,4 @@ Some useful resources:
 
 2.Beginning C++ Programming - From Beginner to Beyond 
 
- -> https://www.udemy.com/course/beginning-c-plus-plus-programming/  -> highly recommended
+ -> https://www.udemy.com/course/beginning-c-plus-plus-programming/
