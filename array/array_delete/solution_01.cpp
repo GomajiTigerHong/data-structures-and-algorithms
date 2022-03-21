@@ -1,4 +1,4 @@
-//basic array implementation using c
+//array delete time complexity O(n)
 
 #include <stdio.h>
 
